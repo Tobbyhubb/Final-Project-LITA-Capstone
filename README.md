@@ -31,3 +31,17 @@ The objective of this project is to provide actionable insights into sales perfo
 - Data Import and Relationships
 - Data Model Optimization 
 - Data Transformation
+
+## Data Analysis: 
+- Sales by Product and Region
+- Monthly Sales Trends
+- Top-Selling Products
+- Revenue by Region
+- Top 5 Customers by Purchase Amount
+- Products with No Sales in the Last Quarter
+- Subscription Patterns and Popularity
+- Customer Cancellations and Renewals
+- Subscription Duration
+- Revenue by Subscription Type
+- Regional Cancellations
+- Total Active and Canceled Subscriptions
